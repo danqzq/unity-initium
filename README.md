@@ -21,7 +21,7 @@
 3. Paste the repository URL:
 
    ```
-   https://github.com/danqzq/initium.git
+   https://github.com/danqzq/unity-initium.git
    ```
 4. Click **Add** — Unity will fetch and install Initium automatically.
 
