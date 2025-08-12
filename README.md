@@ -2,6 +2,8 @@
 
 **Initium** is a Unity package that kickstarts your project with a curated, ready-to-use ecosystem of tools, structure, and best practices — so you can focus on creating, not configuring.
 
+![Preview](img/preview.png)
+
 ## ✨ Features
 
 | Feature                    | Description                                                   |
@@ -27,7 +29,7 @@
 
 | Feature                                                                        | Status |
 |--------------------------------------------------------------------------------|--------|
-| Customizable audio folders and audio mixer setup with exposed volume parameters                               | ✅ Done |
+| Customizable `Audio` folders and `AudioMixer` setup with exposed volume parameters                               | ✅ Done |
 | Extra configurations for graphics, publishing, etc based on targeted platforms | 🛠️ Planned |
 | Folder coloring in Project window                                              | 🛠️ Planned |
 | Advanced theming (light/dark presets, custom color palettes)                   | 🛠️ Planned |
