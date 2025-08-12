@@ -1,0 +1,12 @@
+{
+  "name": "com.danqzq.initium",
+  "version": "1.0.0",
+  "displayName": "Initium",
+  "description": "A Unity plugin for quickly setting up projects: folders, assembly definitions, audio mixer, and fetching packages.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Danial Jumagaliyev",
+    "email": "danqzq@gmail.com",
+    "url": "https://www.danqzq.games"
+  }
+}
